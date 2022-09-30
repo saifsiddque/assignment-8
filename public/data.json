@@ -1,0 +1,32 @@
+[
+    {
+      "picture": "images/photo-1.avif",
+      "time": 20,
+      "name": "Weight Lifting"
+    },
+    {
+      "picture": "images/photo-2.avif",
+      "time": 21,
+      "name": "Rest"
+    },
+    {
+      "picture": "images/photo-3.avif",
+      "time": 22,
+      "name": "Swimming"
+    },
+    {
+      "picture": "images/photo-4.avif",
+      "time": 23,
+      "name": "Cycling"
+    },
+    {
+      "picture": "images/photo-5.avif",
+      "time": 24,
+      "name": "Playing"
+    },
+    {
+      "picture": "images/photo-6.avif",
+      "time": 25,
+      "name": "Push Ups"
+    }
+  ]
