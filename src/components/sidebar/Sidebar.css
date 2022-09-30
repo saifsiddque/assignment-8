@@ -4,16 +4,24 @@
     margin: 20px;
     height:  max-content;
 }
+h3 {
+    width: max-content;
+}
 h3 img{
     width: 50px;
     border-radius: 50%;
     border: 3px solid #f1f1f1;
 }
-p{
+.p{
     background-color: #f1f1f1;
     padding: 5px;
     border-radius: 3px;
+    width: max-content;
+    min-width: 100%;
 }
 p .right{
     float: right;
+    width: max-content;
+    margin-left: 3px;
+
 }

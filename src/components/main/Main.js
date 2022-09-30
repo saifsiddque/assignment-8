@@ -14,8 +14,8 @@ const Main = () => {
     const [cart, setCart] = useState([]);
         const handleClick = (todo) =>{
             const newcart = cart + parseInt(todo.time);
-            setCart(newcart) 
-            console.log(todo)
+            setCart(parseInt(newcart)) 
+            console.log(typeof(newcart))
     }
 
     return (
