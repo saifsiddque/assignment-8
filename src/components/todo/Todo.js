@@ -2,7 +2,7 @@ import React from 'react';
 const Todo = (props) => {
     const {picture , name , time} = props.todo;
     const {handleClick} = props;
-   
+        
     return (
         <div>
             <div className="card" >
